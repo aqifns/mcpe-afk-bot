@@ -1,0 +1,12 @@
+{
+  "name": "mcpe-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft PE AFK Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minecraft-protocol": "^1.33.0"
+  }
+}
